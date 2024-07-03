@@ -2,5 +2,7 @@ div{
                               background-color: azure;
                               background-position: center;
                               padding: 20px;
+                              border: 10px;
+                              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
